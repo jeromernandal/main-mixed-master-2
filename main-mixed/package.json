@@ -1,12 +1,12 @@
 {
-  "name": "mixed-mfers",
+  "name": "test",
   "version": "1.0.0",
-  "description": "a collection of 7777 generative mfers derivative nfts",
+  "description": "",
   "main": "index.html",
   "scripts": {
     "test": "test"
   },
-  "author": "mixtoshi",
+  "author": "dev",
   "license": "ISC",
   "devDependencies": {
     "@babel/cli": "^7.21.0",
